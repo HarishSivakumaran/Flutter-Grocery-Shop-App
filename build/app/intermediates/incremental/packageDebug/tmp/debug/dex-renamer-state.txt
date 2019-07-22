@@ -1,0 +1,4 @@
+#Sat Jun 22 15:38:43 IST 2019
+base.0=/home/harish/flutterProj/navigation_practice2/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

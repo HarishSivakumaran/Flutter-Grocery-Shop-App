@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/harish/flutterProj/navigation_practice2/build/app/intermediates/incremental/mergeDevDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/harish/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/39a714eb8bcd94a04cee4090f5b2ddd4/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
