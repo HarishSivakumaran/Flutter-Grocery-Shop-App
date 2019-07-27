@@ -1,4 +1,4 @@
-# navigation_practice
+# Grocery_App
 
 A new Flutter project.
 
